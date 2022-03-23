@@ -1,0 +1,15 @@
+package com.example.myapp;
+
+import static junit.framework.Assert.assertEquals;
+
+/**
+ * Unit test for simple App.
+ */
+class CreateS3BucketTest {
+    /**
+     * Rigorous Test.
+     */
+    void testApp() {
+        assertEquals(1, 1);
+    }
+}

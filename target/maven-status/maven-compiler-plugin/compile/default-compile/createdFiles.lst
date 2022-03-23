@@ -1,0 +1,9 @@
+com\example\myapp\Terminate.class
+com\example\myapp\InstanceInfo.class
+com\example\myapp\AwsInfo.class
+com\example\myapp\CreateS3Bucket.class
+com\example\myapp\CreateEC2.class
+com\example\myapp\CreateFunction.class
+com\example\myapp\Stop.class
+com\example\myapp\Reboot.class
+com\example\myapp\Start.class
